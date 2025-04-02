@@ -1,5 +1,5 @@
 # BIOS
-Welcome to my Github, my only aim in here is to produce something basic and understandable for the masses in relation to AM5 and more specifically, what I do on my own personal system that just works. I'm not going to go over "what a bios" is, what it does and things of that nature, if you're looking for computer basics, Google is at your disposal. Again, I'm using this as a one-stop-shop for you to find values that may or may not work for you so that you're not spending $$$ on PC optimisations, when in reality, it can all be done for FREE.
+Welcome to my Github. My name is Fragility and I've been in the optimisation space for a good couple of years now. I've helped countless individuals over the years with settings, optimisations, tips, tricks and so on. I'm just passionate about computers, hardware and getting the most out of what you have paid for. I don't do this professionally, I believe in opensource and with that in mind throughout the repo, I am going to put forward as much informatioin as humanly possible so that you can get solid performance out of your hardware without having to fork out an arm and a leg for optimisations when in reality, you can do this all in the comfort of your own home with a bit of knowledge and courage.
 
 
 
