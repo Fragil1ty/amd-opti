@@ -8,3 +8,7 @@ When messing around with your BIOS, sometimes (depending upon what is being chan
 With that being said, you will be at an advantage if you have a CMOS reset switch on the rear of your motherboard. If you do not, please Google: "How do I reset my motherboard? How do I reset my CMOS?" just in case something goes awry when you are applying these settings and tweaking your RAM timings and CPU offsets.
 
 Finally, I am approaching this guide from the point of view of someone who is technically minded and who is running similar hardware and more specifically, AMD focused. I am on the AM5 platform which is DDR5 specific. If you are not on AM5 or DDR5, this is _NOT_ the guide for you.
+
+## Advanced BIOS settings?
+
+Now, sometimes there are hidden BIOS settings within the BIOS itself. These settings can be unlocked via: applications or tools such as __GRUB__ or SCEWIN. We will NOT be touching such tools in this guide, I don't believe they are needed on AM5 and they will not net you a positive gaming experience, so in my personal opinion? they aren't needed. There are plenty of guides available out there if you are looking for more information on them though.
