@@ -11,4 +11,4 @@ Finally, I am approaching this guide from the point of view of someone who is te
 
 ## Advanced BIOS settings?
 
-Now, sometimes there are hidden BIOS settings within the BIOS itself. These settings can be unlocked via: applications or tools such as __GRUB__ or SCEWIN. We will NOT be touching such tools in this guide, I don't believe they are needed on AM5 and they will not net you a positive gaming experience, so in my personal opinion? they aren't needed. There are plenty of guides available out there if you are looking for more information on them though.
+Now, sometimes there are hidden BIOS settings within the BIOS itself. These settings can be unlocked via: applications or tools such as _GRUB_ or _SCEWIN_. We will NOT be touching such tools in this guide, I don't believe they are needed on AM5 and they will not net you a positive gaming experience, so in my personal opinion? they aren't needed. There are plenty of guides available out there if you are looking for more information on them though.
